@@ -1,2 +1,3 @@
 # revert-reset-practice
-git revert reset
+git revert reset　　
+また間違えた変更
